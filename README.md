@@ -1,5 +1,3 @@
-  <img style="width: 100%; height: 400px; object-fit: cover; object-position: 0 0" src="https://cdn.hipwallpaper.com/i/32/81/CNqyJx.png">
-
 # Carlos Queiroz
 
 ## Faaaala Tech 📱
@@ -8,9 +6,9 @@ Obrigado por visitar meu perfil.
 
 Fiz uma transição de carreira para a área de desenvolvimento em 2019 e de lá pra cá tenho sido muito feliz. Um crescimento incrível como pessoa e como profissional.
 
-Atualmente meu foco é me tornar um desenvolvedor especialista em Frontend com foco em UX.
+Atualmente meu foco é me tornar um desenvolvedor especialista em Front-end com foco no usuário.
 
-Trabalhando atualmente na **CI&T** como Software Engineering Pleno.
+Atualmente trabalho na CI&T
 
 <br/> 😉 &nbsp; Posso te ajudar com testes no ReactJS usando a lib react-testing-library
 
